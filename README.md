@@ -1,3 +1,10 @@
+I have fixed the errors that occurred due to function updates in the pandas and sklearn libraries. The errors can be seen in the screenshot below.
+
+![error](1.png)
+<p style="text-align: center;">Error 1 - error caused by pandas update.</p>
+![error](2.png)
+<p style="text-align: center;">Error 2 - error caused by sklearn update.</p>
+
 # xverse
 
 **xverse** short for **X** uni**Verse** is a Python module for machine learning in the space of feature engineering, feature transformation and feature selection.  
