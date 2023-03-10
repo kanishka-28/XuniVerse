@@ -1,8 +1,8 @@
 I have fixed the errors that occurred due to function updates in the pandas and sklearn libraries. The errors can be seen in the screenshot below.
 
-![error](1.png)
+![error](./1.jpg)
 <p style="text-align: center;">Error 1 - error caused by pandas update.</p>
-![error](2.png)
+![error](./2.png)
 <p style="text-align: center;">Error 2 - error caused by sklearn update.</p>
 
 # xverse
