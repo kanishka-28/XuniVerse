@@ -18,7 +18,6 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.5.*',
     license='MIT',
     install_requires=[
       'numpy>=1.11.3',
